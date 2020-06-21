@@ -1,4 +1,4 @@
-﻿dist: bionic
+dist: bionic
 language: bash
 sudo: required
 
